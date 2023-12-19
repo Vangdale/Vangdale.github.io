@@ -53,6 +53,9 @@ span{
     font-size: 12px;
 }
 .card-text{
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: rgb(47, 90, 81);
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -60,12 +63,6 @@ span{
 h5 {
     font-family: 'Oswald';
     font-size: 28px;
-}
-
-p {
-    font-family: 'Roboto';
-    font-size: 16px;
-    color: rgb(47, 90, 81);
 }
 
 /* carousel style */
